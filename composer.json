@@ -1,10 +1,9 @@
 {
     "name": "portfolio/emad",
-    "description": "portfolio",
+    "description": "portf",
     "type": "project",
     "require": {
-        "php": "8.1.5",
-        "8.1.5": "8.1.5"
+        "php": "8.1.5"
     },
     "autoload": {
         "psr-4": {
