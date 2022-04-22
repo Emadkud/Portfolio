@@ -84,7 +84,7 @@
                              responsabilité et le travail d'équipe .
 						</p>
 
-						     <a href="images/Emad CV ALTERNANCE.pdf" class="btn downloadCV" download>
+						     <a href="images/cv formation.pdf" class="btn downloadCV" download>
 						  <span>Télécharger CV</span></a>
 					 </article>
 				</div>
@@ -256,7 +256,7 @@
 			<div >
 				<a href="https://www.linkedin.com/in/emad-mustafa-a30a69188/"><i class="fab fa-linkedin-in"></i></a>
 				<a href="https://github.com/Emadkud"><i class="fab fa-github"></i></a>
-				<a href="./images/Emad CV ALTERNANCE.pdf"><i class="fas fa-user-tie"></i></a>
+				<a href="./images/cv formation.pdf"><i class="fas fa-user-tie"></i></a>
 				<a href="https://twitter.com/basemmostafa7"><i class="fab fa-twitter"></i></a>
 				
 			</div>
