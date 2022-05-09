@@ -93,7 +93,7 @@
    
 		
 
-		 <section id="page-2" class="page" autofocus>
+		 <section id="page-2" class="page" >
 			<div>
 				<h3>Compétences</h3">
 			</div>
