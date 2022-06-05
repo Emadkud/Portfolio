@@ -231,7 +231,7 @@
 							<img src="images/Feuilles de vigne.jpg" />
 							<div class="project-links">
 								<a href="http://"><i class="fas fa-hand-point-up"></i></a>
-								<a href="#"><i class="fas fa-arrow-up"></i></a>
+							
 								<a href="./images/Emad CV ALTERNANCE.pdf"><i class="fas fa-user-tie"></i></a>
 							</div>
 						</figure>
