@@ -175,7 +175,6 @@
 							</div>
 						</figure>
 						<h4>Site web  Cocktail(À VENIR)</h4>
-					</li>
 					<li class="project">
 						<figure class="project_Image">
 							<img src="images/fit.png" />
