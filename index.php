@@ -157,7 +157,7 @@
 
 							</div>
 						</figure>
-						<h4> Application Freelance (Projet En cours)</h4>
+						<h4> Application Freelance</h4>
 
 
 					</li>
