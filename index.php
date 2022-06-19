@@ -194,11 +194,11 @@
 						<figure class="project_Image">
 							<img src="images/ESPACE1.jpg " />
 							<div class="project-links">
-								<a href="https://github.com/browserslist/browserslist#browsers-data-updating "><i class="fas fa-hand-point-up"></i></a>
+								<a href="https://emadkud.github.io/starter/"><i class="fas fa-hand-point-up"></i></a>
 								<a href="#"><i class="fas fa-arrow-up"></i></a>
 							</div>
 						</figure>
-						<h4>Petit Projet 3D (À VENIR)</h4>
+						<h4>Petit Projet 3D</h4>
 					</li>
 					<li class="project">
 						<figure class="project_Image">
@@ -226,7 +226,7 @@
 							<div class="project-links">
 								<a href="http://"><i class="fas fa-hand-point-up"></i></a>
 
-								<a href="./images/Emad CV ALTERNANCE.pdf"><i class="fas fa-user-tie"></i></a>
+								<a href="./images/EmadCV PRO.pdf"><i class="fas fa-user-tie"></i></a>
 							</div>
 						</figure>
 						<h4>Projet site restaurant(À VENIR)</h4>
