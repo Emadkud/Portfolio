@@ -243,7 +243,7 @@
 
 		<section id="contact-section">
 			<div class="contact-section">
-					<h2>Contact</h2>
+					<h2></h2>
 				<div class="contact-info">
 				
 					<div><i class="fas fa-map-marker-alt"></i>PARIS . FRANCE</div>
