@@ -80,8 +80,10 @@ h1 {
 	MARGIN-LEFT:0rem;
 }
 
-h3 {
-	font-size: 2rem;
+
+ h3 {
+	font-size: 4rem;
+	text-align: center;
 
 	
 	
@@ -746,7 +748,7 @@ footer .social-medias a:hover {
 
 /** responsive media query **/
 
-@media only screen and (max-width: 1300px) {
+@media only screen and (max-width: 1920px) {
 	.page .container {
 		width: 90%;
 	}

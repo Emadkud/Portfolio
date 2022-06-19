@@ -243,7 +243,9 @@
 
 		<section id="contact-section">
 			<div class="contact-section">
+					<h2>Contact</h2>
 				<div class="contact-info">
+				
 					<div><i class="fas fa-map-marker-alt"></i>PARIS . FRANCE</div>
 					<div><i class="fas fa-envelope"></i>basemrf007@gmail.com</div>
 					<div><i class="fas fa-phone"></i>+33 6 05 55 26 79</div>
@@ -258,7 +260,7 @@
 				</div>
 
 				<div class="contact-form">
-					<h2>Nous Contacter</h2>
+					
 					<form action="" method="POST" autocomplete="on">
 
 						<input type="text" name="name" class="text-box" placeholder=" Nom " required>
