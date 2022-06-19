@@ -163,13 +163,13 @@
 					</li>
 					<li class="project">
 						<figure class="project_Image">
-							<img src="images/cocktail.jpg" />
+							<img src="images/photo.jpeg" />
 							<div class="project-links">
-								<a href="http://"><i class="fas fa-hand-point-up"></i></a>
+								<a href="https://emadkud.github.io/Cornfood/"><i class="fas fa-hand-point-up"></i></a>
 								<a href="#"><i class="fas fa-arrow-up"></i></a>
 							</div>
 						</figure>
-						<h4>Site web Cocktail(À VENIR)</h4>
+						<h4>Projet Cornfood</h4>
 					<li class="project">
 						<figure class="project_Image">
 							<img src="images/fit.png" />
@@ -178,7 +178,7 @@
 								<a href="#"><i class="fas fa-arrow-up"></i></a>
 							</div>
 						</figure>
-						<h4>Projet FitB (À VENIR) </h4>
+						<h4>Projet Fitbit </h4>
 					</li>
 					<li class="project">
 						<figure class="project_Image">
