@@ -226,7 +226,7 @@
 							<div class="project-links">
 								<a href="http://"><i class="fas fa-hand-point-up"></i></a>
 
-								<a href="./images/EmadCV PRO.pdf"><i class="fas fa-user-tie"></i></a>
+								<a href=""><i class="fas fa-arrow-up"></i></a>
 							</div>
 						</figure>
 						<h4>Projet site restaurant(À VENIR)</h4>
