@@ -174,7 +174,7 @@
 						<figure class="project_Image">
 							<img src="images/fit.png" />
 							<div class="project-links">
-								<a href="http://"><i class="fas fa-hand-point-up"></i></a>
+								<a href="https://emadkud.github.io/Fitbit/"><i class="fas fa-hand-point-up"></i></a>
 								<a href="#"><i class="fas fa-arrow-up"></i></a>
 							</div>
 						</figure>
