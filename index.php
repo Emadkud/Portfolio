@@ -182,13 +182,13 @@
 					</li>
 					<li class="project">
 						<figure class="project_Image">
-							<img src="images/BARRE DE.png" />
+							<img src="images/1-pierre.jpg" />
 							<div class="project-links">
-								<a href="http://"><i class="fas fa-hand-point-up"></i></a>
+								<a href="https://emadkud.github.io/shifumi/"><i class="fas fa-hand-point-up"></i></a>
 								<a href="#"><i class="fas fa-arrow-up"></i></a>
 							</div>
 						</figure>
-						<h4>Barre de recherche (À VENIR)</h4>
+						<h4>Shifumi</h4>
 					</li>
 					<li class="project">
 						<figure class="project_Image">
