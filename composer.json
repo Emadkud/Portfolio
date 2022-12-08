@@ -15,5 +15,13 @@
             "name": "Emad0007",
             "email": "BASEMRF007@GMAIL.COM"
         }
-    ]
+    ],
+    
+        "hosting": {
+          "site": "emadkud",
+      
+          "public": "public"
+          
+        
+      }
 }
