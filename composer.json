@@ -1,0 +1,17 @@
+{
+    "name": "spring/portfolio",
+    "require": {
+        "php": "8.1.11"
+    },
+    "autoload": {
+        "psr-4": {
+            "Spring\\Portfolio\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Emad0007",
+            "email": "BASEMRF007@GMAIL.COM"
+        }
+    ]
+}
